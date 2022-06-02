@@ -19,7 +19,3 @@ const app = initializeApp(firebaseConfig);
 
 export const auth = getAuth(app);
 export default app;
-
-
-// Firebase-generated web client ID: 949873605122-n34oc8ufquoisug1emp6fo4shp1ip6uk.apps.googleusercontent.com
-// secret: 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
